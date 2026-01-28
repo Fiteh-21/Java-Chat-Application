@@ -19,7 +19,7 @@ A real-time chat system built using **Java Sockets** and **Swing GUI**. This pro
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Java-Chat-Application.git](https://github.com/YOUR_USERNAME/Java-Chat-Application.git)
+    git clone [https://github.com/Fiteh-21/Java-Chat-Application.git](https://github.com/Fiteh-21/Java-Chat-Application.git)
     cd Java-Chat-Application
     ```
 2.  **Compile the code:**
